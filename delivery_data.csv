@@ -1,0 +1,7 @@
+order_id,route_id,zone,dispatch_time,promised_delivery_time,actual_delivery_time,delivery_status,distance_km,delivery_cost,attempt_count
+ORD001,R1,North,2026-10-01 09:00,2026-10-01 12:00,2026-10-01 11:40,delivered,4.2,55,1
+ORD002,R1,North,2026-10-01 09:15,2026-10-01 12:30,2026-10-01 12:50,delivered,5.1,60,1
+ORD003,R2,Central,2026-10-01 09:05,2026-10-01 13:00,2026-10-01 12:45,delivered,3.7,48,1
+ORD004,R2,Central,2026-10-01 09:20,2026-10-01 13:30,,failed_attempt,6.0,65,1
+ORD005,R3,South,2026-10-01 09:10,2026-10-01 14:00,2026-10-01 14:20,delivered,7.5,75,1
+ORD006,R3,South,2026-10-01 09:30,2026-10-01 15:00,2026-10-01 14:40,delivered,6.8,72,1
